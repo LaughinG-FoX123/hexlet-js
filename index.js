@@ -1,4 +1,4 @@
-import _ from "lodash";
+import checkElm from "./src/index.js"
 
-console.log("Hellow, Hexlet!");
-console.log(_.last(["one", "two"]));
+console.log(checkElm());
+
